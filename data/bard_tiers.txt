@@ -1,0 +1,126 @@
+bard, Animal Friendship, -1
+bard, Animal Messenger, -1
+bard, Animate Objects, -1
+bard, Awaken, -1
+bard, Bane, -1
+bard, Bestow Curse, -1
+bard, Blade Ward, -1
+bard, Blindness/Deafness, -1
+bard, Calm Emotions, -1
+bard, Charm Person, -1
+bard, Clairvoyance, -1
+bard, Cloud of Daggers, -1
+bard, Comprehend Languages, -1
+bard, Compulsion, -1
+bard, Confusion, -1
+bard, Crown of Madness, -1
+bard, Cure Wounds, -1
+bard, Dancing Lights, -1
+bard, Detect Magic, -1
+bard, Detect Thoughts, -1
+bard, Dimension Door, -1
+bard, Disguise Self, -1
+bard, Dispel Magic, -1
+bard, Dissonant Whispers, -1
+bard, Dominate Monster, -1
+bard, Dominate Person, -1
+bard, Dream, -1
+bard, Earth Tremor, -1
+bard, Enhance Ability, -1
+bard, Enthrall, -1
+bard, Etherealness, -1
+bard, Eyebite, -1
+bard, Faerie Fire, -1
+bard, Fear, -1
+bard, Feather Fall, -1
+bard, Feeblemind, -1
+bard, Feign Death, -1
+bard, Find the Path, -1
+bard, Forcecage, -1
+bard, Foresight, -1
+bard, Freedom of Movement, -1
+bard, Friends, -1
+bard, Geas, -1
+bard, Glibness, -1
+bard, Glyph of Warding, -1
+bard, Greater Invisibility, -1
+bard, Greater Restoration, -1
+bard, Guards and Wards, -1
+bard, Hallucinatory Terrain, -1
+bard, Healing Word, -1
+bard, Heat Metal, -1
+bard, Heroism, -1
+bard, Hold Monster, -1
+bard, Hold Person, -1
+bard, Hypnotic Pattern, -1
+bard, Identify, -1
+bard, Illusory Script, -1
+bard, Invisibility, -1
+bard, Knock, -1
+bard, Legend Lore, -1
+bard, Leomund's Tiny Hut, -1
+bard, Lesser Restoration, -1
+bard, Light, -1
+bard, Locate Animals or Plants, -1
+bard, Locate Creature, -1
+bard, Locate Object, -1
+bard, Longstrider, -1
+bard, Mage Hand, -1
+bard, Magic Mouth, -1
+bard, Major Image, -1
+bard, Mass Cure Wounds, -1
+bard, Mass Suggestion, -1
+bard, Mending, -1
+bard, Message, -1
+bard, Mind Blank, -1
+bard, Minor Illusion, -1
+bard, Mirage Arcane, -1
+bard, Mislead, -1
+bard, Modify Memory, -1
+bard, Mordenkainen's Magnificent Mansion, -1
+bard, Mordenkainen's Sword, -1
+bard, Nondetection, -1
+bard, Otto's Irresistible Dance, -1
+bard, Permanent Image, -1
+bard, Phantasmal Force, -1
+bard, Planar Binding, -1
+bard, Plant Growth, -1
+bard, Polymorph, -1
+bard, Power Word Heal, -1
+bard, Power Word Kill, -1
+bard, Power Word Stun, -1
+bard, Prestidigitation, -1
+bard, Programmed Illusion, -1
+bard, Project Image, -1
+bard, Pyrotechnics, -1
+bard, Raise Dead, -1
+bard, Regenerate, -1
+bard, Resurrection, -1
+bard, Scrying, -1
+bard, See Invisibility, -1
+bard, Seeming, -1
+bard, Sending, -1
+bard, Shatter, -1
+bard, Silence, -1
+bard, Silent Image, -1
+bard, Skywrite, -1
+bard, Sleep, -1
+bard, Speak with Animals, -1
+bard, Speak with Dead, -1
+bard, Speak with Plants, -1
+bard, Stinking Cloud, -1
+bard, Suggestion, -1
+bard, Symbol, -1
+bard, Tasha's Hideous Laughter, -1
+bard, Teleport, -1
+bard, Teleportation Circle, -1
+bard, Thunderclap, -1
+bard, Thunderwave, -1
+bard, Tongues, -1
+bard, True Polymorph, -1
+bard, True Seeing, -1
+bard, True Strike, -1
+bard, Unseen Servant, -1
+bard, Vicious Mockery, -1
+bard, Warding Wind, -1
+bard, Zone of Truth, -1

@@ -1,0 +1,49 @@
+ranger, Absorb Elements, -1
+ranger, Alarm, -1
+ranger, Animal Friendship, -1
+ranger, Animal Messenger, -1
+ranger, Barkskin, -1
+ranger, Beast Bond, -1
+ranger, Beast Sense, -1
+ranger, Commune with Nature, -1
+ranger, Conjure Animals, -1
+ranger, Conjure Barrage, -1
+ranger, Conjure Volley, -1
+ranger, Conjure Woodland Beings, -1
+ranger, Cordon of Arrows, -1
+ranger, Cure Wounds, -1
+ranger, Darkvision, -1
+ranger, Daylight, -1
+ranger, Detect Magic, -1
+ranger, Detect Poison and Disease, -1
+ranger, Ensnaring Strike, -1
+ranger, Find Traps, -1
+ranger, Flame Arrows, -1
+ranger, Fog Cloud, -1
+ranger, Freedom of Movement, -1
+ranger, Goodberry, -1
+ranger, Grasping Vine, -1
+ranger, Hail of Thorns, -1
+ranger, Hunter's Mark, -1
+ranger, Jump, -1
+ranger, Lesser Restoration, -1
+ranger, Lightning Arrow, -1
+ranger, Locate Animals or Plants, -1
+ranger, Locate Creature, -1
+ranger, Locate Object, -1
+ranger, Longstrider, -1
+ranger, Nondetection, -1
+ranger, Pass without Trace, -1
+ranger, Plant Growth, -1
+ranger, Protection from Energy, -1
+ranger, Protection from Poison, -1
+ranger, Silence, -1
+ranger, Speak with Animals, -1
+ranger, Speak with Plants, -1
+ranger, Spike Growth, -1
+ranger, Stoneskin, -1
+ranger, Swift Quiver, -1
+ranger, Tree Stride, -1
+ranger, Water Breathing, -1
+ranger, Water Walk, -1
+ranger, Wind Wall, -1

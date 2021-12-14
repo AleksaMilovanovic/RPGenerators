@@ -1,0 +1,148 @@
+cleric, Aid, -1
+cleric, Animal Friendship, -1
+cleric, Animate Dead, -1
+cleric, Antimagic Field, -1
+cleric, Arcane Eye, -1
+cleric, Astral Projection, -1
+cleric, Augury, -1
+cleric, Bane, -1
+cleric, Banishment, -1
+cleric, Barkskin, -1
+cleric, Beacon of Hope, -1
+cleric, Bestow Curse, -1
+cleric, Blade Barrier, -1
+cleric, Bless, -1
+cleric, Blindness/Deafness, -1
+cleric, Blink, -1
+cleric, Burning Hands, -1
+cleric, Call Lightning, -1
+cleric, Calm Emotions, -1
+cleric, Charm Person, -1
+cleric, Clairvoyance, -1
+cleric, Command, -1
+cleric, Commune, -1
+cleric, Confusion, -1
+cleric, Conjure Celestial, -1
+cleric, Contagion, -1
+cleric, Continual Flame, -1
+cleric, Control Water, -1
+cleric, Control Weather, -1
+cleric, Create Food and Water, -1
+cleric, Create or Destroy Water, -1
+cleric, Create Undead, -1
+cleric, Crusader's Mantle, -1
+cleric, Cure Wounds, -1
+cleric, Daylight, -1
+cleric, Death Ward, -1
+cleric, Destructive Wave, -1
+cleric, Detect Evil and Good, -1
+cleric, Detect Magic, -1
+cleric, Detect Poison and Disease, -1
+cleric, Dimension Door, -1
+cleric, Disguise Self, -1
+cleric, Dispel Evil and Good, -1
+cleric, Dispel Magic, -1
+cleric, Divination, -1
+cleric, Divine Favor, -1
+cleric, Divine Word, -1
+cleric, Dominate Beast, -1
+cleric, Dominate Person, -1
+cleric, Earthquake, -1
+cleric, Enhance Ability, -1
+cleric, Etherealness, -1
+cleric, Faerie Fire, -1
+cleric, Feign Death, -1
+cleric, Find the Path, -1
+cleric, Find Traps, -1
+cleric, Fireball, -1
+cleric, Fire Storm, -1
+cleric, Flame Strike, -1
+cleric, Flaming Sphere, -1
+cleric, Fog Cloud, -1
+cleric, Forbiddance, -1
+cleric, Freedom of Movement, -1
+cleric, Gate, -1
+cleric, Geas, -1
+cleric, Gentle Repose, -1
+cleric, Glyph of Warding, -1
+cleric, Grasping Vine, -1
+cleric, Greater Restoration, -1
+cleric, Guardian of Faith, -1
+cleric, Guidance, -1
+cleric, Guiding Bolt, -1
+cleric, Gust of Wind, -1
+cleric, Hallow, -1
+cleric, Harm, -1
+cleric, Heal, -1
+cleric, Healing Word, -1
+cleric, Heroes' Feast, -1
+cleric, Hold Monster, -1
+cleric, Hold Person, -1
+cleric, Holy Aura, -1
+cleric, Ice Storm, -1
+cleric, Identify, -1
+cleric, Inflict Wounds, -1
+cleric, Insect Plague, -1
+cleric, Legend Lore, -1
+cleric, Lesser Restoration, -1
+cleric, Light, -1
+cleric, Locate Creature, -1
+cleric, Locate Object, -1
+cleric, Magic Circle, -1
+cleric, Magic Weapon, -1
+cleric, Mass Cure Wounds, -1
+cleric, Mass Heal, -1
+cleric, Mass Healing Word, -1
+cleric, Meld into Stone, -1
+cleric, Mending, -1
+cleric, Mirror Image, -1
+cleric, Modify Memory, -1
+cleric, Nondetection, -1
+cleric, Pass without Trace, -1
+cleric, Planar Ally, -1
+cleric, Planar Binding, -1
+cleric, Plane Shift, -1
+cleric, Plant Growth, -1
+cleric, Polymorph, -1
+cleric, Prayer of Healing, -1
+cleric, Protection from Energy, -1
+cleric, Protection from Evil and Good, -1
+cleric, Protection from Poison, -1
+cleric, Purify Food and Drink, -1
+cleric, Raise Dead, -1
+cleric, Regenerate, -1
+cleric, Remove Curse, -1
+cleric, Resistance, -1
+cleric, Resurrection, -1
+cleric, Revivify, -1
+cleric, Sacred Flame, -1
+cleric, Sanctuary, -1
+cleric, Scorching Ray, -1
+cleric, Scrying, -1
+cleric, Sending, -1
+cleric, Shatter, -1
+cleric, Shield of Faith, -1
+cleric, Silence, -1
+cleric, Sleet Storm, -1
+cleric, Spare the Dying, -1
+cleric, Speak with Animals, -1
+cleric, Speak with Dead, -1
+cleric, Spike Growth, -1
+cleric, Spirit Guardians, -1
+cleric, Spiritual Weapon, -1
+cleric, Stone Shape, -1
+cleric, Stoneskin, -1
+cleric, Suggestion, -1
+cleric, Symbol, -1
+cleric, Thaumaturgy, -1
+cleric, Thunderwave, -1
+cleric, Tongues, -1
+cleric, Tree Stride, -1
+cleric, True Resurrection, -1
+cleric, True Seeing, -1
+cleric, Wall of Fire, -1
+cleric, Warding Bond, -1
+cleric, Water Walk, -1
+cleric, Wind Wall, -1
+cleric, Word of Recall, -1
+cleric, Zone of Truth, -1

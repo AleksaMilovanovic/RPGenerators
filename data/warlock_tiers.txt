@@ -1,0 +1,116 @@
+warlock, Arcane Gate, -1
+warlock, Armor of Agathys, -1
+warlock, Arms of Hadar, -1
+warlock, Astral Projection, -1
+warlock, Banishment, -1
+warlock, Blade Ward, -1
+warlock, Blight, -1
+warlock, Blindness/Deafness, -1
+warlock, Blink, -1
+warlock, Booming Blade, -1
+warlock, Burning Hands, -1
+warlock, Calm Emotions, -1
+warlock, Charm Person, -1
+warlock, Chill Touch, -1
+warlock, Circle of Death, -1
+warlock, Clairvoyance, -1
+warlock, Cloud of Daggers, -1
+warlock, Command, -1
+warlock, Comprehend Languages, -1
+warlock, Conjure Fey, -1
+warlock, Contact Other Plane, -1
+warlock, Counterspell, -1
+warlock, Create Bonfire, -1
+warlock, Create Undead, -1
+warlock, Crown of Madness, -1
+warlock, Darkness, -1
+warlock, Demiplane, -1
+warlock, Detect Thoughts, -1
+warlock, Dimension Door, -1
+warlock, Dispel Magic, -1
+warlock, Dissonant Whispers, -1
+warlock, Dominate Beast, -1
+warlock, Dominate Monster, -1
+warlock, Dominate Person, -1
+warlock, Dream, -1
+warlock, Earthbind, -1
+warlock, Eldritch Blast, -1
+warlock, Elemental Bane, -1
+warlock, Enthrall, -1
+warlock, Etherealness, -1
+warlock, Evard's Black Tentacles, -1
+warlock, Expeditious Retreat, -1
+warlock, Eyebite, -1
+warlock, Faerie Fire, -1
+warlock, Fear, -1
+warlock, Feeblemind, -1
+warlock, Finger of Death, -1
+warlock, Fireball, -1
+warlock, Fire Shield, -1
+warlock, Flame Strike, -1
+warlock, Flesh to Stone, -1
+warlock, Fly, -1
+warlock, Forcecage, -1
+warlock, Foresight, -1
+warlock, Friends, -1
+warlock, Frostbite, -1
+warlock, Gaseous Form, -1
+warlock, Glibness, -1
+warlock, Greater Invisibility, -1
+warlock, Green-Flame Blade, -1
+warlock, Hallow, -1
+warlock, Hallucinatory Terrain, -1
+warlock, Hellish Rebuke, -1
+warlock, Hex, -1
+warlock, Hold Monster, -1
+warlock, Hold Person, -1
+warlock, Hunger of Hadar, -1
+warlock, Hypnotic Pattern, -1
+warlock, Illusory Script, -1
+warlock, Imprisonment, -1
+warlock, Investiture of Flame, -1
+warlock, Investiture of Ice, -1
+warlock, Investiture of Stone, -1
+warlock, Investiture of Wind, -1
+warlock, Invisibility, -1
+warlock, Lightning Lure, -1
+warlock, Mage Hand, -1
+warlock, Magic Circle, -1
+warlock, Magic Stone, -1
+warlock, Major Image, -1
+warlock, Mass Suggestion, -1
+warlock, Minor Illusion, -1
+warlock, Mirror Image, -1
+warlock, Misty Step, -1
+warlock, Permanent Image, -1
+warlock, Phantasmal Force, -1
+warlock, Plane Shift, -1
+warlock, Plant Growth, -1
+warlock, Poison Spray, -1
+warlock, Power Word Kill, -1
+warlock, Power Word Stun, -1
+warlock, Prestidigitation, -1
+warlock, Protection from Evil and Good, -1
+warlock, Ray of Enfeeblement, -1
+warlock, Remove Curse, -1
+warlock, Scorching Ray, -1
+warlock, Scrying, -1
+warlock, Seeming, -1
+warlock, Sending, -1
+warlock, Shatter, -1
+warlock, Sleep, -1
+warlock, Spider Climb, -1
+warlock, Stinking Cloud, -1
+warlock, Suggestion, -1
+warlock, Sword Burst, -1
+warlock, Tasha's Hideous Laughter, -1
+warlock, Telekinesis, -1
+warlock, Thunderclap, -1
+warlock, Tongues, -1
+warlock, True Polymorph, -1
+warlock, True Seeing, -1
+warlock, True Strike, -1
+warlock, Unseen Servant, -1
+warlock, Vampiric Touch, -1
+warlock, Wall of Fire, -1
+warlock, Witch Bolt, -1

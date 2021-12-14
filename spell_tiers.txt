@@ -1,0 +1,178 @@
+wizard, Acid Splash, 2
+wizard, Blade Ward, 2
+wizard, Booming Blade, 2
+wizard, Chill Touch, 3
+wizard, Control Flames, 1
+wizard, Create Bonfire, 3
+wizard, Dancing Lights, 2
+wizard, Encode Thoughts, 1
+wizard, Fire Bolt, 3
+wizard, Friends, 2
+wizard, Frostbite, 3
+wizard, Green-Flame Blade, 2
+wizard, Gust, 1
+wizard, Infestation, 2
+wizard, Light, 3
+wizard, Lightning Lure, 2
+wizard, Mage Hand, 4
+wizard, Mending, 1
+wizard, Message, 2
+wizard, Mind Sliver, 4
+wizard, Minor Illusion, 4
+wizard, Mold Earth, 1
+wizard, Poison Spray, 1
+wizard, Prestidigitation, 4
+wizard, Ray of Frost, 2
+wizard, Shape Water, 4
+wizard, Shocking Grasp, 1
+wizard, Sword Burst, 2
+wizard, Thunderclap, 1
+wizard, Toll the Dead, 3
+wizard, True Strike, 1
+wizard, Absorb Elements, 4
+wizard, Alarm, 4
+wizard, Burning Hands, 2
+wizard, Catapult, 3
+wizard, Cause Fear, 3
+wizard, Charm Person, 3
+wizard, Chromatic Orb, 3
+wizard, Color Spray, 1
+wizard, Comprehend Languages, 4
+wizard, Detect Magic, 3
+wizard, Disguise Self, 2
+wizard, Earth Tremor, 2
+wizard, Expeditious Retreat, 1
+wizard, False Life, 4
+wizard, Feather Fall, 4
+wizard, Find Familiar, 4
+wizard, Fog Cloud, 2
+wizard, Frost Fingers, 1
+wizard, Grease, 1
+wizard, Ice Knife, 2
+wizard, Identify, 1
+wizard, Illusory Script, 1
+wizard, Jim's Magic Missile, 2
+wizard, Jump, 1
+wizard, Longstrider, 2
+wizard, Mage Armor, 3
+wizard, Magic Missile, 4
+wizard, Protection From Evil And Good, 3
+wizard, Ray of Sickness, 2
+wizard, Shield, 4
+wizard, Silent Image, 4
+wizard, Sleep, 4
+wizard, Snare, 2
+wizard, Tasha's Caustic Brew, 3
+wizard, Tasha's Hideous Laughter, 3
+wizard, Tenser's Floating Disk, 2
+wizard, Thunderwave, 2
+wizard, Unseen Servant, 2
+wizard, Witch Bolt, 2
+wizard, Aganazzar's Scorcher, 2
+wizard, Alter Self, 2
+wizard, Arcane Lock, 3
+wizard, Augury, 4
+wizard, Blindness/Deafness, 3
+wizard, Blur, 3
+wizard, Cloud of Daggers, 2
+wizard, Continual Flame, 4
+wizard, Crown of Madness, 1
+wizard, Darkness, 2
+wizard, Darkvision, 4
+wizard, Detect Thoughts, 3
+wizard, Dragon's Breath, 3
+wizard, Dust Devil, 1
+wizard, Earthbind, 4
+wizard, Enhance Ability, 4
+wizard, Enlarge/Reduce, 3
+wizard, Flaming Sphere, 3
+wizard, Gentle Repose, 1
+wizard, Gift of Gab, 0
+wizard, Gust of Wind, 2
+wizard, Hold Person, 2
+wizard, Invisibility, 4
+wizard, Jim's Glowing Coin, 4
+wizard, Knock, 4
+wizard, Levitate, 3
+wizard, Locate Object, 1
+wizard, Magic Mouth, 2
+wizard, Magic Weapon, 3
+wizard, Maximilian's Earthen Grasp, 4
+wizard, Melf's Acid Arrow, 1
+wizard, Mind Spike, 1
+wizard, Mirror Image, 3
+wizard, Misty Step, 4
+wizard, Nathair's Mischeif, 1
+wizard, Nystul's Magic Aura, 1
+wizard, Phantasmal Force, 3
+wizard, Pyrotechnics, 1
+wizard, Ray of Enfeeblement, 1
+wizard, Rime's Binding Ice, 2
+wizard, Rope Trick, 2
+wizard, Scorching Ray, 3
+wizard, See Invisibility, 4
+wizard, Shadow Blade, 2
+wizard, Shatter, 3
+wizard, Skywrite, 1
+wizard, Snilloc's Snowball Swarm, 2
+wizard, Spider Climb, 3
+wizard, Suggestion, 4
+wizard, Tasha's Mind Whip, 3
+wizard, Warding Wind, 3
+wizard, Web, 4
+wizard, Animate Dead, 2
+wizard, Ashardalon's Stride, 3
+wizard, Bestow Curse, 4
+wizard, Blink, 2
+wizard, Catnap, 2
+wizard, Clairvoyance, 4
+wizard, Counterspell, 4
+wizard, Dispel Magic, 4
+wizard, Enemies Abound, 4
+wizard, Erupting Earth, 2
+wizard, Fast Friends, 3
+wizard, Fear, 3
+wizard, Feign Death, 1
+wizard, Fireball, 4
+wizard, Flame Arrows, 1
+wizard, Fly, 4
+wizard, Gaseous Form, 3
+wizard, Glyph of Warding, 2
+wizard, Haste, 3
+wizard, Hypnotic Pattern, 4
+wizard, Incite Greed, 2
+wizard, Intellect Fortress, 3
+wizard, Leomund's Tiny Hut, 4
+wizard, Life Transference, 1
+wizard, Lightning Bolt, 2
+wizard, Magic Circle, 2
+wizard, Major Image, 4
+wizard, Melf's Minute Meteors, 3
+wizard, Nondetection, 3
+wizard, Phantom Steed, 3
+wizard, Protection From Energy, 4
+wizard, Remove Curse, 2
+wizard, Sending, 3
+wizard, Sleet Storm, 2
+wizard, Slow, 3
+wizard, Speak with Dead, 1
+wizard, Spirit Shroud, 2
+wizard, Stinking Cloud, 2
+wizard, Summon Lesser Demons, 1
+wizard, Summon Fey, 2
+wizard, Summon Shadowspawn, 3
+wizard, Summon Undead, 4
+wizard, Thunder Step, 2
+wizard, Tidal Wave, 2
+wizard, Tony Servant, 4
+wizard, Tongues, 4
+wizard, Vampiric Touch, 2
+wizard, Wall of Sand, 2
+wizard, Wall of Water, 1
+wizard, Water Breathing, 2
+wizard, Arcane Eye, 4
+wizard, Banishment, 4
+wizard, Blight, 2
+wizard, Charm Monster, 3
+wizard, Confusion, 1
+wizard, Conjure Minor Elementals, 2

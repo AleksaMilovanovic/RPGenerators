@@ -1,0 +1,165 @@
+sorcerer, Abi-Dalzim's Horrid Wilting, -1
+sorcerer, Acid Splash, -1
+sorcerer, Aganazzar's Scorcher, -1
+sorcerer, Alter Self, -1
+sorcerer, Animate Objects, -1
+sorcerer, Arcane Gate, -1
+sorcerer, Banishment, -1
+sorcerer, Blade Ward, -1
+sorcerer, Blight, -1
+sorcerer, Blindness/Deafness, -1
+sorcerer, Blink, -1
+sorcerer, Blur, -1
+sorcerer, Booming Blade, -1
+sorcerer, Burning Hands, -1
+sorcerer, Catapult, -1
+sorcerer, Chain Lightning, -1
+sorcerer, Charm Person, -1
+sorcerer, Chill Touch, -1
+sorcerer, Chromatic Orb, -1
+sorcerer, Circle of Death, -1
+sorcerer, Clairvoyance, -1
+sorcerer, Cloud of Daggers, -1
+sorcerer, Cloudkill, -1
+sorcerer, Color Spray, -1
+sorcerer, Comprehend Languages, -1
+sorcerer, Cone of Cold, -1
+sorcerer, Confusion, -1
+sorcerer, Control Flames, -1
+sorcerer, Control Winds, -1
+sorcerer, Counterspell, -1
+sorcerer, Create Bonfire, -1
+sorcerer, Creation, -1
+sorcerer, Crown of Madness, -1
+sorcerer, Dancing Lights, -1
+sorcerer, Darkness, -1
+sorcerer, Darkvision, -1
+sorcerer, Daylight, -1
+sorcerer, Delayed Blast Fireball, -1
+sorcerer, Detect Magic, -1
+sorcerer, Detect Thoughts, -1
+sorcerer, Dimension Door, -1
+sorcerer, Disguise Self, -1
+sorcerer, Disintegrate, -1
+sorcerer, Dispel Magic, -1
+sorcerer, Dominate Beast, -1
+sorcerer, Dominate Monster, -1
+sorcerer, Dominate Person, -1
+sorcerer, Dust Devil, -1
+sorcerer, Earth Tremor, -1
+sorcerer, Earthbind, -1
+sorcerer, Earthquake, -1
+sorcerer, Enhance Ability, -1
+sorcerer, Enlarge/Reduce, -1
+sorcerer, Erupting Earth, -1
+sorcerer, Etherealness, -1
+sorcerer, Expeditious Retreat, -1
+sorcerer, Eyebite, -1
+sorcerer, False Life, -1
+sorcerer, Fear, -1
+sorcerer, Feather Fall, -1
+sorcerer, Finger of Death, -1
+sorcerer, Fireball, -1
+sorcerer, Fire Bolt, -1
+sorcerer, Fire Storm, -1
+sorcerer, Flame Arrows, -1
+sorcerer, Fly, -1
+sorcerer, Fog Cloud, -1
+sorcerer, Friends, -1
+sorcerer, Frostbite, -1
+sorcerer, Gaseous Form, -1
+sorcerer, Gate, -1
+sorcerer, Globe of Invulnerability, -1
+sorcerer, Greater Invisibility, -1
+sorcerer, Green-Flame Blade, -1
+sorcerer, Gust, -1
+sorcerer, Gust of Wind, -1
+sorcerer, Haste, -1
+sorcerer, Hold Monster, -1
+sorcerer, Hold Person, -1
+sorcerer, Hypnotic Pattern, -1
+sorcerer, Ice Knife, -1
+sorcerer, Ice Storm, -1
+sorcerer, Immolation, -1
+sorcerer, Incendiary Cloud, -1
+sorcerer, Insect Plague, -1
+sorcerer, Investiture of Flame, -1
+sorcerer, Investiture of Ice, -1
+sorcerer, Investiture of Stone, -1
+sorcerer, Investiture of Wind, -1
+sorcerer, Invisibility, -1
+sorcerer, Jump, -1
+sorcerer, Knock, -1
+sorcerer, Levitate, -1
+sorcerer, Light, -1
+sorcerer, Lightning Bolt, -1
+sorcerer, Lightning Lure, -1
+sorcerer, Mage Armor, -1
+sorcerer, Mage Hand, -1
+sorcerer, Magic Missile, -1
+sorcerer, Major Image, -1
+sorcerer, Mass Suggestion, -1
+sorcerer, Maximilian's Earthen Grasp, -1
+sorcerer, Melf's Minute Meteors, -1
+sorcerer, Mending, -1
+sorcerer, Message, -1
+sorcerer, Meteor Swarm, -1
+sorcerer, Minor Illusion, -1
+sorcerer, Mirror Image, -1
+sorcerer, Misty Step, -1
+sorcerer, Mold Earth, -1
+sorcerer, Move Earth, -1
+sorcerer, Permanent Image, -1
+sorcerer, Phantasmal Force, -1
+sorcerer, Plane Shift, -1
+sorcerer, Poison Spray, -1
+sorcerer, Polymorph, -1
+sorcerer, Power Word Kill, -1
+sorcerer, Power Word Stun, -1
+sorcerer, Prestidigitation, -1
+sorcerer, Prismatic Spray, -1
+sorcerer, Protection from Energy, -1
+sorcerer, Pyrotechnics, -1
+sorcerer, Ray of Frost, -1
+sorcerer, Ray of Sickness, -1
+sorcerer, Reverse Gravity, -1
+sorcerer, Scorching Ray, -1
+sorcerer, See Invisibility, -1
+sorcerer, Seeming, -1
+sorcerer, Shape Water, -1
+sorcerer, Shatter, -1
+sorcerer, Shield, -1
+sorcerer, Shocking Grasp, -1
+sorcerer, Silent Image, -1
+sorcerer, Sleep, -1
+sorcerer, Sleet Storm, -1
+sorcerer, Slow, -1
+sorcerer, Snilloc's Snowball Swarm, -1
+sorcerer, Spider Climb, -1
+sorcerer, Stinking Cloud, -1
+sorcerer, Stoneskin, -1
+sorcerer, Storm Sphere, -1
+sorcerer, Suggestion, -1
+sorcerer, Sunbeam, -1
+sorcerer, Sunburst, -1
+sorcerer, Sword Burst, -1
+sorcerer, Telekinesis, -1
+sorcerer, Teleport, -1
+sorcerer, Teleportation Circle, -1
+sorcerer, Thunderclap, -1
+sorcerer, Thunderwave, -1
+sorcerer, Time Stop, -1
+sorcerer, Tongues, -1
+sorcerer, True Seeing, -1
+sorcerer, True Strike, -1
+sorcerer, Vitriolic Sphere, -1
+sorcerer, Wall of Fire, -1
+sorcerer, Wall of Stone, -1
+sorcerer, Wall of Water, -1
+sorcerer, Warding Wind, -1
+sorcerer, Water Breathing, -1
+sorcerer, Water Walk, -1
+sorcerer, Watery Sphere, -1
+sorcerer, Web, -1
+sorcerer, Wish, -1
+sorcerer, Witch Bolt, -1

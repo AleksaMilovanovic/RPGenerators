@@ -1,0 +1,68 @@
+paladin, Aid, -1
+paladin, Aura of Life, -1
+paladin, Aura of Purity, -1
+paladin, Aura of Vitality, -1
+paladin, Bane, -1
+paladin, Banishing Smite, -1
+paladin, Banishment, -1
+paladin, Beacon of Hope, -1
+paladin, Bless, -1
+paladin, Blinding Smite, -1
+paladin, Branding Smite, -1
+paladin, Circle of Power, -1
+paladin, Command, -1
+paladin, Commune, -1
+paladin, Commune with Nature, -1
+paladin, Compelled Duel, -1
+paladin, Create Food and Water, -1
+paladin, Crusader's Mantle, -1
+paladin, Cure Wounds, -1
+paladin, Daylight, -1
+paladin, Death Ward, -1
+paladin, Destructive Wave, -1
+paladin, Detect Evil and Good, -1
+paladin, Detect Magic, -1
+paladin, Detect Poison and Disease, -1
+paladin, Dimension Door, -1
+paladin, Dispel Evil and Good, -1
+paladin, Dispel Magic, -1
+paladin, Divine Favor, -1
+paladin, Elemental Weapon, -1
+paladin, Ensnaring Strike, -1
+paladin, Find Steed, -1
+paladin, Flame Strike, -1
+paladin, Freedom of Movement, -1
+paladin, Geas, -1
+paladin, Guardian of Faith, -1
+paladin, Haste, -1
+paladin, Heroism, -1
+paladin, Hold Monster, -1
+paladin, Hold Person, -1
+paladin, Hunter's Mark, -1
+paladin, Ice Storm, -1
+paladin, Lesser Restoration, -1
+paladin, Locate Creature, -1
+paladin, Locate Object, -1
+paladin, Magic Circle, -1
+paladin, Magic Weapon, -1
+paladin, Misty Step, -1
+paladin, Moonbeam, -1
+paladin, Plant Growth, -1
+paladin, Protection from Energy, -1
+paladin, Protection from Evil and Good, -1
+paladin, Protection from Poison, -1
+paladin, Purify Food and Drink, -1
+paladin, Raise Dead, -1
+paladin, Remove Curse, -1
+paladin, Revivify, -1
+paladin, Sanctuary, -1
+paladin, Scrying, -1
+paladin, Searing Smite, -1
+paladin, Shield of Faith, -1
+paladin, Speak with Animals, -1
+paladin, Staggering Smite, -1
+paladin, Stoneskin, -1
+paladin, Thunderous Smite, -1
+paladin, Tree Stride, -1
+paladin, Wrathful Smite, -1
+paladin, Zone of Truth, -1

@@ -1,0 +1,379 @@
+wizard, Acid Splash, 2
+wizard, Alarm, 4
+wizard, Animal Friendship, 1
+wizard, Bane, 1
+wizard, Blade Ward, 2
+wizard, Bless, 1
+wizard, Burning Hands, 1
+wizard, Charm Person, 1
+wizard, Chill Touch, 3
+wizard, Chromatic Orb, 1
+wizard, Color Spray, 1
+wizard, Command, 1
+wizard, Compelled Duel, 1
+wizard, Comprehend Languages, 1
+wizard, Create or Destroy Water, 1
+wizard, Cure Wounds, 1
+wizard, Dancing Lights, 1
+wizard, Detect Evil and Good, 1
+wizard, Detect Magic, 1
+wizard, Detect Poison and Disease, 1
+wizard, Disguise Self, 1
+wizard, Divine Favor, 1
+wizard, Dissonant Whispers, 1
+wizard, Druidcraft, 1
+wizard, Eldritch Blast, 1
+wizard, Ensnaring Strike, 1
+wizard, Entangle, 1
+wizard, Faerie Fire, 1
+wizard, Expeditious Retreat, 1
+wizard, False Life, 1
+wizard, Feather Fall, 1
+wizard, Find Familiar, 1
+wizard, Fire Bolt, 3
+wizard, Fog Cloud, 1
+wizard, Friends, 2
+wizard, Goodberry, 1
+wizard, Grease, 1
+wizard, Guidance, 1
+wizard, Guiding Bolt, 1
+wizard, Hail of Thorns, 1
+wizard, Healing Word, 1
+wizard, Hellish Rebuke, 1
+wizard, Hex, 1
+wizard, Heroism, 1
+wizard, Hunter's Mark, 1
+wizard, Identify, 1
+wizard, Illusory Script, 1
+wizard, Inflict Wounds, 1
+wizard, Jump, 1
+wizard, Light, 1
+wizard, Longstrider, 1
+wizard, Mage Armor, 1
+wizard, Mage Hand, 1
+wizard, Magic Missile, 1
+wizard, Mending, 1
+wizard, Message, 1
+wizard, Minor Illusion, 1
+wizard, Poison Spray, 1
+wizard, Prestidigitation, 1
+wizard, Produce Flame, 1
+wizard, Protection from Evil and Good, 1
+wizard, Purify Food and Drink, 1
+wizard, Ray of Frost, 1
+wizard, Ray of Sickness, 1
+wizard, Remove Curse, 1
+wizard, Resistance, 1
+wizard, Sacred Flame, 1
+wizard, Sanctuary, 1
+wizard, Shield of Faith, 1
+wizard, Searing Smite, 1
+wizard, Shield, 1
+wizard, Shillelagh, 1
+wizard, Shocking Grasp, 1
+wizard, Silent Image, 1
+wizard, Sleep, 1
+wizard, Spare the Dying, 1
+wizard, Speak with Animals, 1
+wizard, Thaumaturgy, 1
+wizard, Thorn Whip, 1
+wizard, Thunderous Smite, 1
+wizard, Thunderwave, 1
+wizard, True Strike, 1
+wizard, Unseen Servant, 1
+wizard, Vicious Mockery, 1
+wizard, Witch Bolt, 1
+wizard, Wrathful Smite, 1
+wizard, Aid, 1
+wizard, Animal Messenger, 1
+wizard, Blindness/Deafness, 1
+wizard, Augury, 1
+wizard, Calm Emotions, 1
+wizard, Hold Person, 1
+wizard, Lesser Restoration, 1
+wizard, Prayer of Healing, 1
+wizard, Silence, 1
+wizard, Spiritual Weapon, 1
+wizard, Warding Bond, 1
+wizard, Animate Dead, 1
+wizard, Arcane Eye, 1
+wizard, Aura of Life, 1
+wizard, Aura of Purity, 1
+wizard, Aura Of Vitality, 1
+wizard, Banishment, 1
+wizard, Beacon of Hope, 1
+wizard, Blight, 1
+wizard, Bestow Curse, 1
+wizard, Blinding Smite, 1
+wizard, Blink, 1
+wizard, Call Lightning, 1
+wizard, Clairvoyance, 1
+wizard, Cloud of Daggers, 1
+wizard, Compulsion, 1
+wizard, Conjure Animals, 1
+wizard, Conjure Barrage, 1
+wizard, Counterspell, 1
+wizard, Create Food and Water, 1
+wizard, Crusader's Mantle, 1
+wizard, Daylight, 1
+wizard, Dispel Magic, 1
+wizard, Elemental Weapon, 1
+wizard, Fear, 1
+wizard, Feign Death, 1
+wizard, Fireball, 1
+wizard, Fly, 1
+wizard, Gaseous Form, 1
+wizard, Haste, 1
+wizard, Hypnotic Pattern, 1
+wizard, Lightning Arrow, 1
+wizard, Magic Circle, 1
+wizard, Major Image, 1
+wizard, Mass Healing Word, 1
+wizard, Alter Self, 1
+wizard, Arcane Lock, 1
+wizard, Barkskin, 1
+wizard, Nondetection, 1
+wizard, Meld into Stone, 1
+wizard, Phantom Steed, 1
+wizard, Plant Growth, 1
+wizard, Protection from Energy, 1
+wizard, Revivify, 1
+wizard, Sending, 1
+wizard, Sleet Storm, 1
+wizard, Slow, 1
+wizard, Speak with Dead, 1
+wizard, Speak with Plants, 1
+wizard, Spirit Guardians, 1
+wizard, Stinking Cloud, 1
+wizard, Confusion, 1
+wizard, Conjure Minor Elementals, 1
+wizard, Control Water, 1
+wizard, Conjure Woodland Beings, 1
+wizard, Death Ward, 1
+wizard, Tongues, 1
+wizard, Beast Sense, 1
+wizard, Blur, 1
+wizard, Branding Smite, 1
+wizard, Cordon Of Arrows, 1
+wizard, Crown of Madness, 1
+wizard, Darkness, 1
+wizard, Darkvision, 1
+wizard, Detect Thoughts, 1
+wizard, Animal Shapes, 1
+wizard, Antimagic Field, 1
+wizard, Antipathy/Sympathy, 1
+wizard, Astral Projection, 1
+wizard, Clone, 1
+wizard, Control Weather, 1
+wizard, Demiplane, 1
+wizard, Dominate Monster, 1
+wizard, Earthquake, 1
+wizard, Feeblemind, 1
+wizard, Foresight, 1
+wizard, Gate, 1
+wizard, Glibness, 1
+wizard, Holy Aura, 1
+wizard, Imprisonment, 1
+wizard, Incendiary Cloud, 1
+wizard, Mass Heal, 1
+wizard, Maze, 1
+wizard, Meteor Swarm, 1
+wizard, Mind Blank, 1
+wizard, Power Word Heal, 1
+wizard, Power Word Kill, 1
+wizard, Power Word Stun, 1
+wizard, Prismatic Wall, 1
+wizard, Shapechange, 1
+wizard, Storm of Vengeance, 1
+wizard, Telepathy, 1
+wizard, Sunburst, 1
+wizard, Time Stop, 1
+wizard, True Polymorph, 1
+wizard, Tsunami, 1
+wizard, True Resurrection, 1
+wizard, Weird, 1
+wizard, Wish, 1
+wizard, Conjure Celestial, 1
+wizard, Delayed Blast Fireball, 1
+wizard, Dimension Door, 1
+wizard, Divine Word, 1
+wizard, Etherealness, 1
+wizard, Finger of Death, 1
+wizard, Fire Storm, 1
+wizard, Forcecage, 1
+wizard, Mirage Arcane, 1
+wizard, Prismatic Spray, 1
+wizard, Project Image, 1
+wizard, Plane Shift, 1
+wizard, Regenerate, 1
+wizard, Resurrection, 1
+wizard, Reverse Gravity, 1
+wizard, Sequester, 1
+wizard, Simulacrum, 1
+wizard, Symbol, 1
+wizard, Teleport, 1
+wizard, Suggestion, 1
+wizard, Invisibility, 1
+wizard, Animate Objects, 1
+wizard, Antilife Shell, 1
+wizard, Arcane Gate, 1
+wizard, Awaken, 1
+wizard, Banishing Smite, 1
+wizard, Chain Lightning, 1
+wizard, Blade Barrier, 1
+wizard, Circle of Death, 1
+wizard, Circle of Power, 1
+wizard, Cloudkill, 1
+wizard, Commune with Nature, 1
+wizard, Commune, 1
+wizard, Cone of Cold, 1
+wizard, Conjure Elemental, 1
+wizard, Conjure Fey, 1
+wizard, Conjure Volley, 1
+wizard, Contact Other Plane, 1
+wizard, Contagion, 1
+wizard, Contingency, 1
+wizard, Create Undead, 1
+wizard, Continual Flame, 1
+wizard, Creation, 1
+wizard, Destructive Wave, 1
+wizard, Disintegrate, 1
+wizard, Divination, 1
+wizard, Dispel Evil and Good, 1
+wizard, Dominate Beast, 1
+wizard, Dominate Person, 1
+wizard, Dream, 1
+wizard, Enhance Ability, 1
+wizard, Enlarge/Reduce, 1
+wizard, Enthrall, 1
+wizard, Fabricate, 1
+wizard, Eyebite, 1
+wizard, Find Steed, 1
+wizard, Find the Path, 1
+wizard, Find Traps, 1
+wizard, Fire Shield, 1
+wizard, Flame Blade, 1
+wizard, Flame Strike, 1
+wizard, Flaming Sphere, 1
+wizard, Flesh to Stone, 1
+wizard, Forbiddance, 1
+wizard, Freedom of Movement, 1
+wizard, Geas, 1
+wizard, Gentle Repose, 1
+wizard, Giant Insect, 1
+wizard, Globe of Invulnerability, 1
+wizard, Glyph of Warding, 1
+wizard, Grasping Vine, 1
+wizard, Greater Invisibility, 1
+wizard, Greater Restoration, 1
+wizard, Guardian of Faith, 1
+wizard, Guards and Wards, 1
+wizard, Gust of Wind, 1
+wizard, Hallucinatory Terrain, 1
+wizard, Hallow, 1
+wizard, Harm, 1
+wizard, Heat Metal, 1
+wizard, Heal, 1
+wizard, Heroes' Feast, 1
+wizard, Hold Monster, 1
+wizard, Ice Storm, 1
+wizard, Insect Plague, 1
+wizard, Knock, 1
+wizard, Legend Lore, 1
+wizard, Levitate, 1
+wizard, Locate Animals or Plants, 1
+wizard, Lightning Bolt, 1
+wizard, Locate Creature, 1
+wizard, Locate Object, 1
+wizard, Magic Jar, 1
+wizard, Magic Weapon, 1
+wizard, Magic Mouth, 1
+wizard, Mass Cure Wounds, 1
+wizard, Mass Suggestion, 1
+wizard, Mirror Image, 1
+wizard, Mislead, 1
+wizard, Misty Step, 1
+wizard, Modify Memory, 1
+wizard, Moonbeam, 1
+wizard, Move Earth, 1
+wizard, Pass without Trace, 1
+wizard, Passwall, 1
+wizard, Phantasmal Killer, 1
+wizard, Phantasmal Force, 1
+wizard, Planar Ally, 1
+wizard, Planar Binding, 1
+wizard, Polymorph, 1
+wizard, Programmed Illusion, 1
+wizard, Raise Dead, 1
+wizard, Protection from Poison, 1
+wizard, Ray of Enfeeblement, 1
+wizard, Reincarnate, 1
+wizard, Rope Trick, 1
+wizard, Scorching Ray, 1
+wizard, Scrying, 1
+wizard, Seeming, 1
+wizard, See Invisibility, 1
+wizard, Shatter, 1
+wizard, Spider Climb, 1
+wizard, Spike Growth, 1
+wizard, Staggering Smite, 1
+wizard, Stone Shape, 1
+wizard, Sunbeam, 1
+wizard, Stoneskin, 1
+wizard, Swift Quiver, 1
+wizard, Telekinesis, 1
+wizard, Teleportation Circle, 1
+wizard, Transport via Plants, 1
+wizard, Tree Stride, 1
+wizard, True Seeing, 1
+wizard, Vampiric Touch, 1
+wizard, Wall of Fire, 1
+wizard, Wall of Ice, 1
+wizard, Wall of Force, 1
+wizard, Wall of Stone, 1
+wizard, Wall of Thorns, 1
+wizard, Water Breathing, 1
+wizard, Water Walk, 1
+wizard, Web, 1
+wizard, Wind Walk, 1
+wizard, Wind Wall, 1
+wizard, Word of Recall, 1
+wizard, Zone of Truth, 1
+wizard, Earth Tremor, 1
+wizard, Pyrotechnics, 1
+wizard, Skywrite, 1
+wizard, Thunderclap, 1
+wizard, Warding Wind, 1
+wizard, Control Flames, 1
+wizard, Create Bonfire, 1
+wizard, Frostbite, 1
+wizard, Gust, 1
+wizard, Magic Stone, 1
+wizard, Mold Earth, 1
+wizard, Shape Water, 1
+wizard, Absorb Elements, 1
+wizard, Beast Bond, 1
+wizard, Ice Knife, 1
+wizard, Earthbind, 1
+wizard, Dust Devil, 1
+wizard, Catapult, 1
+wizard, Control Winds, 1
+wizard, Bones of the Earth, 1
+wizard, Erupting Earth, 1
+wizard, Elemental Bane, 1
+wizard, Flame Arrows, 1
+wizard, Investiture of Flame, 1
+wizard, Investiture of Ice, 1
+wizard, Investiture of Stone, 1
+wizard, Investiture of Wind, 1
+wizard, Maelstrom, 1
+wizard, Primordial Ward, 1
+wizard, Tidal Wave, 1
+wizard, Transmute Rock, 1
+wizard, Wall of Water, 1
+wizard, Watery Sphere, 1
+wizard, Whirlwind, 1
+wizard, Immolation, 1
+wizard, Storm Sphere, 1
+wizard, Vitriolic Sphere, 1
+wizard, Wall of Sand, 1

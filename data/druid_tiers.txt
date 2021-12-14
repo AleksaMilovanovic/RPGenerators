@@ -1,0 +1,161 @@
+druid, Absorb Elements, -1
+druid, Animal Friendship, -1
+druid, Animal Messenger, -1
+druid, Animal Shapes, -1
+druid, Antilife Shell, -1
+druid, Antipathy/Sympathy, -1
+druid, Awaken, -1
+druid, Barkskin, -1
+druid, Beast Bond, -1
+druid, Beast Sense, -1
+druid, Blight, -1
+druid, Blur, -1
+druid, Bones of the Earth, -1
+druid, Call Lightning, -1
+druid, Charm Person, -1
+druid, Cloudkill, -1
+druid, Commune with Nature, -1
+druid, Cone of Cold, -1
+druid, Confusion, -1
+druid, Conjure Animals, -1
+druid, Conjure Elemental, -1
+druid, Conjure Fey, -1
+druid, Conjure Minor Elementals, -1
+druid, Conjure Woodland Beings, -1
+druid, Contagion, -1
+druid, Control Flames, -1
+druid, Control Water, -1
+druid, Control Weather, -1
+druid, Control Winds, -1
+druid, Create Bonfire, -1
+druid, Create Food and Water, -1
+druid, Create or Destroy Water, -1
+druid, Cure Wounds, -1
+druid, Darkness, -1
+druid, Darkvision, -1
+druid, Daylight, -1
+druid, Detect Magic, -1
+druid, Detect Poison and Disease, -1
+druid, Dispel Magic, -1
+druid, Divination, -1
+druid, Dominate Beast, -1
+druid, Dream, -1
+druid, Druidcraft, -1
+druid, Dust Devil, -1
+druid, Earth Tremor, -1
+druid, Earthbind, -1
+druid, Earthquake, -1
+druid, Elemental Bane, -1
+druid, Enhance Ability, -1
+druid, Entangle, -1
+druid, Erupting Earth, -1
+druid, Faerie Fire, -1
+druid, Feeblemind, -1
+druid, Feign Death, -1
+druid, Find the Path, -1
+druid, Find Traps, -1
+druid, Fire Storm, -1
+druid, Flame Arrows, -1
+druid, Flame Blade, -1
+druid, Flaming Sphere, -1
+druid, Fog Cloud, -1
+druid, Foresight, -1
+druid, Freedom of Movement, -1
+druid, Frostbite, -1
+druid, Gaseous Form, -1
+druid, Geas, -1
+druid, Giant Insect, -1
+druid, Goodberry, -1
+druid, Grasping Vine, -1
+druid, Greater Invisibility, -1
+druid, Greater Restoration, -1
+druid, Guidance, -1
+druid, Gust, -1
+druid, Gust of Wind, -1
+druid, Hallucinatory Terrain, -1
+druid, Haste, -1
+druid, Heal, -1
+druid, Healing Word, -1
+druid, Heat Metal, -1
+druid, Heroes' Feast, -1
+druid, Hold Person, -1
+druid, Ice Knife, -1
+druid, Ice Storm, -1
+druid, Insect Plague, -1
+druid, Investiture of Flame, -1
+druid, Investiture of Ice, -1
+druid, Investiture of Stone, -1
+druid, Investiture of Wind, -1
+druid, Invisibility, -1
+druid, Jump, -1
+druid, Lesser Restoration, -1
+druid, Lightning Bolt, -1
+druid, Locate Animals or Plants, -1
+druid, Locate Creature, -1
+druid, Locate Object, -1
+druid, Longstrider, -1
+druid, Maelstrom, -1
+druid, Magic Stone, -1
+druid, Mass Cure Wounds, -1
+druid, Meld into Stone, -1
+druid, Melf's Acid Arrow, -1
+druid, Mending, -1
+druid, Mirage Arcane, -1
+druid, Mirror Image, -1
+druid, Misty Step, -1
+druid, Mold Earth, -1
+druid, Moonbeam, -1
+druid, Move Earth, -1
+druid, Pass without Trace, -1
+druid, Passwall, -1
+druid, Planar Binding, -1
+druid, Plant Growth, -1
+druid, Polymorph, -1
+druid, Primordial Ward, -1
+druid, Produce Flame, -1
+druid, Protection from Energy, -1
+druid, Protection from Poison, -1
+druid, Purify Food and Drink, -1
+druid, Regenerate, -1
+druid, Reincarnate, -1
+druid, Resistance, -1
+druid, Reverse Gravity, -1
+druid, Scrying, -1
+druid, Shape Water, -1
+druid, Shapechange, -1
+druid, Shillelagh, -1
+druid, Silence, -1
+druid, Skywrite, -1
+druid, Sleet Storm, -1
+druid, Slow, -1
+druid, Speak with Animals, -1
+druid, Speak with Plants, -1
+druid, Spider Climb, -1
+druid, Spike Growth, -1
+druid, Stinking Cloud, -1
+druid, Stone Shape, -1
+druid, Stoneskin, -1
+druid, Storm of Vengeance, -1
+druid, Sunbeam, -1
+druid, Sunburst, -1
+druid, Thorn Whip, -1
+druid, Thunderclap, -1
+druid, Thunderwave, -1
+druid, Tidal Wave, -1
+druid, Transmute Rock, -1
+druid, Transport via Plants, -1
+druid, Tree Stride, -1
+druid, True Resurrection, -1
+druid, Tsunami, -1
+druid, Wall of Fire, -1
+druid, Wall of Stone, -1
+druid, Wall of Thorns, -1
+druid, Wall of Water, -1
+druid, Warding Wind, -1
+druid, Water Breathing, -1
+druid, Water Walk, -1
+druid, Watery Sphere, -1
+druid, Web, -1
+druid, Whirlwind, -1
+druid, Wind Walk, -1
+druid, Wind Wall, -1
